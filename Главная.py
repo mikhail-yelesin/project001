@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Учусь Streamlit", layout="wide")
 
-st.title("🚀 Мой первый Streamlit-проект!!!!!6 dev branch")
+st.title("🚀 Мой первый Streamlit-проект!!!!!6 dev branch new")
 
 name = st.text_input("Как тебя зовут?")
 
